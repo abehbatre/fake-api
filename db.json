@@ -1,29 +1,53 @@
 {
-  "employee": [
-     {
-        "id" : 1,
-        "emailAddress" : "aditya_pertama@gmail.com",
-        "firstName" : "Aditya",
-        "lastName" : "Pertama",
-        "password" : "_Ab1G8J2C_n84Yn",
-        "repeatPassword" : "_Ab1G8J2C_n84Yn",
-        "address" : "06423 Humaira Mission South Dinashire, OK 07599",
-        "phoneNumber" : "+624354738206"
-      },
-         {
-        "id" : 2,
-        "emailAddress" : "abehbatre@gmail.com",
-        "firstName" : "Rima",
-        "lastName" : "Fajrina",
-        "password" : "_Ab1G8J2C_n84Ynx",
-        "repeatPassword" : "_Ab1G8J2C_n84Ynx",
-        "address" : "06413 Humaira Mission South Dinashire, OK 12599",
-        "phoneNumber" : "+624354738754"
-      }
-  ],
-  "profile": {
-    "name": "Adit P.",
-    "email": "contact@adit.web.id",
-    "avatar": "https://avatars2.githubusercontent.com/u/36602270?s=96&v=4"
-  }
+	"employee": [{
+			"id": 1,
+			"emailAddress": "aditya_pertama@gmail.com",
+			"firstName": "Aditya",
+			"lastName": "Pertama",
+			"password": "_Ab1G8J2C_n84Yn",
+			"repeatPassword": "_Ab1G8J2C_n84Yn",
+			"address": "06423 Humaira Mission South Dinashire, OK 07599",
+			"phoneNumber": "+624354738206"
+		},
+		{
+			"id": 2,
+			"emailAddress": "abehbatre@gmail.com",
+			"firstName": "Rima",
+			"lastName": "Fajrina",
+			"password": "_Ab1G8J2C_n84Ynx",
+			"repeatPassword": "_Ab1G8J2C_n84Ynx",
+			"address": "06413 Humaira Mission South Dinashire, OK 12599",
+			"phoneNumber": "+624354738754"
+		}
+	],
+	"book": [{
+			"id": 1,
+			"title": "Rich Dad Poor Dad",
+			"link": "https://productnation.co/id/product/rich-dad-poor-dad-by-robert-t-kiyosaki?pId=606df2a2-07a8-4d7f-bb64-63c05895ba55",
+			"votes":  2946
+		},
+		{
+			"id": 2,
+			"title": "The 5 Level of Leadership",
+			"link": "https://productnation.co/id/product/the-5-level-of-leadership-by-john-c-maxwell?pId=ed4df14c-e42c-4ac9-9244-a99e97ab5dcc",
+			"votes": 2735
+		},     
+		{
+			"id": 3,
+			"title": "Komet Minor productnation",
+			"link": "https://productnation.co/id/product/komet-minor-by-tere-liye?pId=29d40c67-4753-4137-ab47-af0aeea79498",
+			"votes": 2751
+		},
+    {
+			"id": 4,
+			"title": "Murder on the Orient Express",
+			"link": "https://productnation.co/id/product/murder-on-the-orient-express-by-agatha-christie?pId=465ecf97-8ea1-4860-bf7b-8be030f9f4ec",
+			"votes": 2251
+		}
+	],
+	"profile": {
+		"name": "Adit P.",
+		"email": "contact@adit.web.id",
+		"avatar": "https://avatars2.githubusercontent.com/u/36602270?s=96&v=4"
+	}
 }
