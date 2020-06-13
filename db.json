@@ -1,0 +1,28 @@
+{
+  "employee": [
+     {
+        id: 1,
+        emailAddress: 'aditya_pertama@gmail.com',
+        firstName: 'Aditya',
+        lastName: 'Pertama',
+        password: '_Ab1G8J2C_n84Yn',
+        repeatPassword: '_Ab1G8J2C_n84Yn',
+        address: '06423 Humaira Mission South Dinashire, OK 07599',
+        phoneNumber: '+6243547382060',
+      },
+       {
+        id: 2,
+        emailAddress: 'kudua_aditya@gmail.com',
+        firstName: 'Kedua',
+        lastName: 'Aditya',
+        password: '_Ab1G8J2C_n84Yn',
+        repeatPassword: '_Ab1G8J2C_n84Yn',
+        address: '06423 Humaira Mission South Dinashire, OK 07599',
+        phoneNumber: '+62435473824121',
+      },
+  ],
+  "profile": {
+    "name": "Aditya Pratama",
+    "email": "aditya_pratama@sofcograha.co.id",
+  }
+}
