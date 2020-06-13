@@ -8,7 +8,7 @@
         password: '_Ab1G8J2C_n84Yn',
         repeatPassword: '_Ab1G8J2C_n84Yn',
         address: '06423 Humaira Mission South Dinashire, OK 07599',
-        phoneNumber: '+6243547382060',
+        phoneNumber: '+6243547382060'
       },
        {
         id: 2,
@@ -18,8 +18,8 @@
         password: '_Ab1G8J2C_n84Yn',
         repeatPassword: '_Ab1G8J2C_n84Yn',
         address: '06423 Humaira Mission South Dinashire, OK 07599',
-        phoneNumber: '+62435473824121',
-      },
+        phoneNumber: '+62435473824121'
+      }
   ],
   "profile": {
     "name": "Aditya Pratama",
