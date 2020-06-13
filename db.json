@@ -23,24 +23,28 @@
 	"book": [{
 			"id": 1,
 			"title": "Rich Dad Poor Dad",
+			"author": "Robert T. Kiyosaki",
 			"link": "https://productnation.co/id/product/rich-dad-poor-dad-by-robert-t-kiyosaki?pId=606df2a2-07a8-4d7f-bb64-63c05895ba55",
 			"votes":  2946
 		},
 		{
 			"id": 2,
 			"title": "The 5 Level of Leadership",
+			"author": "John C. Maxwell",
 			"link": "https://productnation.co/id/product/the-5-level-of-leadership-by-john-c-maxwell?pId=ed4df14c-e42c-4ac9-9244-a99e97ab5dcc",
 			"votes": 2735
 		},     
 		{
 			"id": 3,
 			"title": "Komet Minor productnation",
+			"author": "Tere Liye",
 			"link": "https://productnation.co/id/product/komet-minor-by-tere-liye?pId=29d40c67-4753-4137-ab47-af0aeea79498",
 			"votes": 2751
 		},
     {
 			"id": 4,
 			"title": "Murder on the Orient Express",
+			"author": "Agatha Christie",
 			"link": "https://productnation.co/id/product/murder-on-the-orient-express-by-agatha-christie?pId=465ecf97-8ea1-4860-bf7b-8be030f9f4ec",
 			"votes": 2251
 		}
