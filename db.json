@@ -1,7 +1,7 @@
 {
   "employee": [
      {
-        "id" : 1
+        "id" : 1,
         "emailAddress" : "aditya_pertama@gmail.com",
         "firstName" : "Aditya",
         "lastName" : "Pertama",
@@ -11,7 +11,7 @@
         "phoneNumber" : "+624354738206"
       },
          {
-        "id" : 2
+        "id" : 2,
         "emailAddress" : "abehbatre@gmail.com",
         "firstName" : "Rima",
         "lastName" : "Fajrina",
